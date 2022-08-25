@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋 
 
-Nice to meet you, I'm Karolina 
+Nice to meet you, My name is Karolina  
+
 
 ### Who Am I? 🤠
 
 - 🤓 Self taught Developer
 
+- 🧳 I'm from Poland but I live in Norway
+
 - 🔭 I’m currently working on my portfolio using React and Sanity (CMS)
 
 - 🎯 Goal : To be a better Developer
 
-- 😄 I'm open for new opportunities.
+- 😄 I'm open for new opportunities
 
 - 🧐 I'm interested in building high-quality websites and dynamic applications.
 
