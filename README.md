@@ -13,7 +13,7 @@ Nice to meet you, My name is Karolina
 
 - 🎯 Goal : To be a better Developer
 
-- 😄 I'm open for new opportunities
+- 😄 I am  curious to learn, eager to try out new things, and continuously improve, while acknowledging that failure is an important part of learning.
 
 - 🧐 I'm interested in building high-quality websites and dynamic applications.
 
