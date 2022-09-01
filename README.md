@@ -1,6 +1,7 @@
 ### Hi there 👋 
 
-Nice to meet you!, My name is Karolina  
+Nice to meet you!
+My name is Karolina  
 
 
 ### Who Am I? 🤠
