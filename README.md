@@ -10,7 +10,7 @@ My name is Karolina
 
 - 🧳 I'm from Poland but I live in Norway
 
-- 🔭 I’m currently working on my portfolio using React and Sanity (CMS)
+- 🔭 I’m currently working on tasks related to working with REST API and DATA
 
 - 🎯 Goal : To be a better Developer
 
