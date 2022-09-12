@@ -10,7 +10,7 @@ My name is Karolina
 
 - 🧳 I'm from Poland but I live in Norway
 
-- 🔭 I’m currently working on tasks related to working with REST API and DATA
+- 🔭 I’m currently learning Typescript
 
 - 🎯 Goal : To be a better Developer
 
