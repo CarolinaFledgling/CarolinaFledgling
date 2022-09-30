@@ -25,7 +25,7 @@ My name is Karolina
 
 Thanks for visiting!
 
-and Never stop learning 🤓 
+and Learn from your mistakes and Never stop learning 🤓 
 
 
 ## 🔗 Links
