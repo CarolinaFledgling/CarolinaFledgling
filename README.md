@@ -14,8 +14,6 @@ My name is Karolina
 
 - 🎯 Goal : To be a better Developer
 
-- 😄 I am  curious to learn, eager to try out new things, and continuously improve, while acknowledging that failure is an important part of learning.
-
 - 🧐 I'm interested in building high-quality websites and dynamic applications.
 
 - ⚡ Fun fact: I'm a big fan of “Harry Potter” ✨
