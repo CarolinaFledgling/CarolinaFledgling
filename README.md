@@ -20,12 +20,14 @@ My name is Karolina
 
 - ⚡ Fun fact: I'm a big fan of “Harry Potter” ✨
 
+- 🤓 I learn from my mistakes and never stop learning
+
 - 🤙 In my free time: I enjoy playing sports ⚽, Nintendo games 🎮 and traveling 🗺️
 
 
 Thanks for visiting!
 
-and Learn from your mistakes and Never stop learning 🤓 
+
 
 
 ## 🔗 Links
