@@ -10,13 +10,11 @@ My name is Karolina
 
 - 🧳 I'm from Poland but I live in Norway
 
-- 🔭 I’m currently practice  JavaScript, React, Typescript
+- 🔭 I’m currently practice  JavaScript, React, Typescript..
 
 - 🎯 Goal : To be a better Developer
 
-- 🧐 I'm interested in building high-quality websites and dynamic applications.
-
-- ⚡ Fun fact: I'm a big fan of “Harry Potter” ✨
+- 🧐 I'm interested in building high-quality websites and dynamic applications
 
 - 🤓 I learn from my mistakes and never stop learning
 
